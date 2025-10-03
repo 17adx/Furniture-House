@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Products from '../components/products/Products';
 import Navbar from '../components/Navbar/navbar';
 import Footer from '../components/footer/footer';
-import './categories.css';
+import './Categories.css';
 
 const Categories = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');

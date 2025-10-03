@@ -1,0 +1,30 @@
+.added-message {
+  background-color: #E7D1C9 !important;
+  color: #000000 !important;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  display: inline-block;
+  text-align: center;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.card-footer {
+  background-color: #F6F2F0 !important;
+}
+
+
+@media (max-width: 425px) {
+  .small-screen {
+    padding: 0 !important;
+  }
+
+  .small-card {
+    width: 10rem !important;
+  }
+  
+  .small-screen-h3 {
+    margin-left: 0 !important; 
+  }
+}

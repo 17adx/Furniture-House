@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wdth,wght@0,18..144,87..112,300..900;1,18..144,87..112,300..900&display=swap');
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+*{
+    font-family: "Merriweather", serif;
+    background-color: #F6F2F0;
+    margin: 0;
+    padding: 0;
+}

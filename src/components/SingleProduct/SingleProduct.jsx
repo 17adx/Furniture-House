@@ -3,8 +3,8 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Container, Row, Col, Button, Spinner, Form } from 'react-bootstrap';
 import { useCart } from '../CartContext/CartContext';
-import Navbar from '../navbar/navbar';
-import Footer from '../Footer/footer';
+import Navbar from '../Navbar/navbar';
+import Footer from '../footer/footer';
 import './SingleProduct.css'; 
 
 const SingleProduct = () => {

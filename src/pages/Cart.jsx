@@ -14,7 +14,7 @@ import {
   Col,
 } from 'react-bootstrap';
 import Navbar from '../components/Navbar/navbar';
-import Footer from '../components/Footer/footer';
+import Footer from '../components/footer/footer';
 import './Cart.css';
 
 const Cart = () => {

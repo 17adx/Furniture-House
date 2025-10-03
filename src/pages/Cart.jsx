@@ -13,7 +13,7 @@ import {
   Row,
   Col,
 } from 'react-bootstrap';
-import Navbar from '../components/navbar/navbar';
+import Navbar from '../components/Navbar/navbar';
 import Footer from '../components/Footer/footer';
 import './Cart.css';
 

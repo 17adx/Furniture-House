@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Products from '../components/products/Products';
-import Navbar from '../components/navbar/navbar';
+import Navbar from '../components/Navbar/navbar';
 import Footer from '../components/Footer/footer';
 import './categories.css';
 

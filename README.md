@@ -14,7 +14,7 @@
 
 <!-- Replace with your actual project screenshots / GIFs -->
 <p align="center">
-  <img src="https://ibb.co/d4fZQD7f" alt="Furniture House Preview" width="100%" />
+  <img src="https://i.ibb.co/pj1q3dn1/screencapture-e-commerce-anassobhi-dev-2026-08-28-01-04-35.png" alt="Furniture House Preview" width="100%" />
 </p>
 
 ---
